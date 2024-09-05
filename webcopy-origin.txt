@@ -1,0 +1,196 @@
+Uri: https://sites-stratus.zohostratus.in/IDC/js/browser_compatibility.js
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\IDC\js\browser_compatibility.js
+Content Type: application/javascript
+
+Uri: https://static.zohocdn.com/sites/stock-images/images/arrow-01.png
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\sites\stock-images\images\arrow-01.png
+Content Type: image/png
+
+Uri: https://static.zohocdn.com/sites/stock-images/images/partner-logo-1.png
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\sites\stock-images\images\partner-logo-1.png
+Content Type: image/png
+
+Uri: https://static.zohocdn.com/sites/stock-images/images/partner-logo-2.png
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\sites\stock-images\images\partner-logo-2.png
+Content Type: image/png
+
+Uri: https://static.zohocdn.com/sites/stock-images/images/partner-logo-3.png
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\sites\stock-images\images\partner-logo-3.png
+Content Type: image/png
+
+Uri: https://static.zohocdn.com/sites/stock-images/images/partner-logo-4.png
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\sites\stock-images\images\partner-logo-4.png
+Content Type: image/png
+
+Uri: https://static.zohocdn.com/sites/stock-images/images/zpstock-image-127.jpg
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\sites\stock-images\images\zpstock-image-127.jpg
+Content Type: image/jpeg
+
+Uri: https://static.zohocdn.com/sites/stock-images/images/zpstock-image-128.png
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\sites\stock-images\images\zpstock-image-128.png
+Content Type: image/png
+
+Uri: https://static.zohocdn.com/sites/stock-images/images/zpstock-image-129.jpg
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\sites\stock-images\images\zpstock-image-129.jpg
+Content Type: image/jpeg
+
+Uri: https://static.zohocdn.com/sites/stock-images/images/zpstock-image-130.jpg
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\sites\stock-images\images\zpstock-image-130.jpg
+Content Type: image/jpeg
+
+Uri: https://static.zohocdn.com/sites/stock-images/images/zpstock-image-131.jpg
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\sites\stock-images\images\zpstock-image-131.jpg
+Content Type: image/jpeg
+
+Uri: https://static.zohocdn.com/sites/stock-images/images/zpstock-image-132.png
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\sites\stock-images\images\zpstock-image-132.png
+Content Type: image/png
+
+Uri: https://static.zohocdn.com/sites/stock-images/images/zpstock-image-133.png
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\sites\stock-images\images\zpstock-image-133.png
+Content Type: image/png
+
+Uri: https://static.zohocdn.com/sites/stock-images/images/zpstock-image-134.jpg
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\sites\stock-images\images\zpstock-image-134.jpg
+Content Type: image/jpeg
+
+Uri: https://static.zohocdn.com/sites/stock-images/images/zpstock-image-135.jpg
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\sites\stock-images\images\zpstock-image-135.jpg
+Content Type: image/jpeg
+
+Uri: https://static.zohocdn.com/sites/stock-images/images/zpstock-image-136.jpg
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\sites\stock-images\images\zpstock-image-136.jpg
+Content Type: image/jpeg
+
+Uri: https://static.zohocdn.com/sites/stock-images/images/zpstock-image-137.jpg
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\sites\stock-images\images\zpstock-image-137.jpg
+Content Type: image/jpeg
+
+Uri: https://static.zohocdn.com/sites/stock-images/images/zpstock-image-138.png
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\sites\stock-images\images\zpstock-image-138.png
+Content Type: image/png
+
+Uri: https://static.zohocdn.com/sites/wb/zsad.js
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\sites\wb\zsad.js
+Content Type: text/javascript
+
+Uri: https://tastequest.zohosites.in/
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\index.htm
+Content Type: text/html
+
+Uri: https://tastequest.zohosites.in/about-us
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\about-us.html
+Content Type: text/html
+
+Uri: https://tastequest.zohosites.in/contact
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\contact.html
+Content Type: text/html
+
+Uri: https://tastequest.zohosites.in/css/zsite-core.css
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\css\zsite-core.css
+Content Type: text/css
+
+Uri: https://tastequest.zohosites.in/food-5981232_1280.jpg
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\food-5981232_1280.jpg
+Content Type: image/jpeg
+
+Uri: https://tastequest.zohosites.in/gallery
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\gallery.html
+Content Type: text/html
+
+Uri: https://tastequest.zohosites.in/js/zsite-core.js
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\js\zsite-core.js
+Content Type: text/javascript
+
+Uri: https://tastequest.zohosites.in/lasagna-5994612_1280.jpg
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\lasagna-5994612_1280.jpg
+Content Type: image/jpeg
+
+Uri: https://tastequest.zohosites.in/our-menu
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\our-menu.html
+Content Type: text/html
+
+Uri: https://tastequest.zohosites.in/photoset/Birthday/.gallery-01.jpg_m.jpg
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\photoset\Birthday\.gallery-01.jpg_m.jpg
+Content Type: image/jpeg
+
+Uri: https://tastequest.zohosites.in/photoset/Birthday/.gallery-02.jpg_m.jpg
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\photoset\Birthday\.gallery-02.jpg_m.jpg
+Content Type: image/jpeg
+
+Uri: https://tastequest.zohosites.in/photoset/Birthday/.gallery-03.jpg_m.jpg
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\photoset\Birthday\.gallery-03.jpg_m.jpg
+Content Type: image/jpeg
+
+Uri: https://tastequest.zohosites.in/photoset/Birthday/.gallery-04.jpg_m.jpg
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\photoset\Birthday\.gallery-04.jpg_m.jpg
+Content Type: image/jpeg
+
+Uri: https://tastequest.zohosites.in/photoset/Birthday/.gallery-05.jpg_m.jpg
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\photoset\Birthday\.gallery-05.jpg_m.jpg
+Content Type: image/jpeg
+
+Uri: https://tastequest.zohosites.in/photoset/Corporate Events/.banner-02.jpg_m.jpg
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\photoset\Corporate Events\.banner-02.jpg_m.jpg
+Content Type: image/jpeg
+
+Uri: https://tastequest.zohosites.in/photoset/Corporate Events/.banner-03.jpg_m.jpg
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\photoset\Corporate Events\.banner-03.jpg_m.jpg
+Content Type: image/jpeg
+
+Uri: https://tastequest.zohosites.in/photoset/Corporate Events/.banner-04.jpg_m.jpg
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\photoset\Corporate Events\.banner-04.jpg_m.jpg
+Content Type: image/jpeg
+
+Uri: https://tastequest.zohosites.in/photoset/Weddings/.carousel-01.png_t.jpg
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\photoset\Weddings\.carousel-01.png_t.jpg
+Content Type: image/png
+
+Uri: https://tastequest.zohosites.in/photoset/Weddings/.carousel-02.png_t.jpg
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\photoset\Weddings\.carousel-02.png_t.jpg
+Content Type: image/png
+
+Uri: https://tastequest.zohosites.in/photoset/Weddings/carousel-01.png
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\photoset\Weddings\carousel-01.png
+Content Type: image/png
+
+Uri: https://tastequest.zohosites.in/restaurant.png
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\restaurant.png
+Content Type: image/png
+
+Uri: https://tastequest.zohosites.in/template/6cf58a5340f4453490d14debe2c152bb/js/eventhandler.js
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\template\6cf58a5340f4453490d14debe2c152bb\js\eventhandler.js
+Content Type: text/javascript
+
+Uri: https://tastequest.zohosites.in/template/6cf58a5340f4453490d14debe2c152bb/js/header.js
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\template\6cf58a5340f4453490d14debe2c152bb\js\header.js
+Content Type: text/javascript
+
+Uri: https://tastequest.zohosites.in/template/6cf58a5340f4453490d14debe2c152bb/js/language-list.js
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\template\6cf58a5340f4453490d14debe2c152bb\js\language-list.js
+Content Type: text/javascript
+
+Uri: https://tastequest.zohosites.in/template/6cf58a5340f4453490d14debe2c152bb/js/megamenu.js
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\template\6cf58a5340f4453490d14debe2c152bb\js\megamenu.js
+Content Type: text/javascript
+
+Uri: https://tastequest.zohosites.in/template/6cf58a5340f4453490d14debe2c152bb/stylesheets/portal-signin.css
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\template\6cf58a5340f4453490d14debe2c152bb\stylesheets\portal-signin.css
+Content Type: text/css
+
+Uri: https://tastequest.zohosites.in/template/6cf58a5340f4453490d14debe2c152bb/stylesheets/style.css
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\template\6cf58a5340f4453490d14debe2c152bb\stylesheets\style.css
+Content Type: text/css
+
+Uri: https://tastequest.zohosites.in/template/6cf58a5340f4453490d14debe2c152bb/stylesheets/sub-style.css
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\template\6cf58a5340f4453490d14debe2c152bb\stylesheets\sub-style.css
+Content Type: text/css
+
+Uri: https://tastequest.zohosites.in/zs-customcss.css
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\zs-customcss.css
+Content Type: text/css
+
+Uri: https://tastequest.zohosites.in/zs-lang_en_US.js
+File Name: C:\Downloaded Web Sites\tastequest.zohosites.in\zs-lang_en_US.js
+Content Type: application/javascript
+
